@@ -1,6 +1,6 @@
 # Notebook
 
-My programming notebook which recorded all kinds of knowledge about tool usages, commands, solutions, tricks, etc. 
+My simple programming notebook.
 
 ## [MyGit](MyGit)
 
