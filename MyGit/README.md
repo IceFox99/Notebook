@@ -1,9 +1,11 @@
 # MyGit
+
 Some git commands and solutions which I personally think are useful.  
 
 ## Git Commands
+
 | Command | Description |
-| :---: | :---: |
+| :--- | :--- |
 | `git init` \<repo_name\> | Initialize a local repository |
 | `git init -b` <branch_name> | Initialize the local directory as a Git repository with a branch name |
 | `git clone` <repo_url> | Clone a repository in GitHub |
@@ -40,6 +42,7 @@ Some git commands and solutions which I personally think are useful.
 | `git difftool` \<branch_1\>`..`\<branch_2\> `--dir-diff` | Compare two branches in git |
 
 ## Solutions
+
 - [Adding an existing project to Github using the command line](https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 - [Delete a folder in github, but not in local](https://stackoverflow.com/questions/15597828/delete-a-folder-in-github-but-not-in-local)
 - [Difference between “git add -A” and “git add .”](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add?rq=1)

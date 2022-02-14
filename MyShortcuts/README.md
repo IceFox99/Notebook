@@ -1,10 +1,13 @@
 # MyShortcuts
+
 Some common and useful keyboard shortcuts in different software or environments.
 
 ## Windows 10
+
 Official Win10 keyboard shortcuts documentation is [here](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec).
+
 | Shortcuts | Description |
-| :---: | :---: |
+| :--- | :--- |
 | `Ctrl + X` | Cut the selected item |
 | `Ctrl + C` | Copy the selected item |
 | `Ctrl + V` | Paste the selected item |
@@ -28,11 +31,13 @@ Official Win10 keyboard shortcuts documentation is [here](https://support.micros
 | `Ctrl + Win + left/right` | Switch between virtual desktops you've created on the left/right |
 
 ## Visual Studio 2019
+
 Official VS keyboard shortcuts documentation is [here](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019). Official Visual Assist keyboard shortcuts documentation is [here](https://docs.wholetomato.com/default.asp?W375).
 
 ### Default Keyboard Shortcuts
+
 | Shortcuts | Description |
-| :---: | :---: |
+| :--- | :--- |
 | `Ctrl + C` | Copy current line |
 | `Ctrl + Enter` | Insert a line above |
 | `Ctrl + Shift + Enter` | Insert a line below |
@@ -72,7 +77,7 @@ Official VS keyboard shortcuts documentation is [here](https://docs.microsoft.co
 
 ### Visual Assist Shortcuts
 | Shortcuts | Description |
-| :---: | :---: |
+| :--- | :--- |
 | `Alt + Shift + O` | Open file |
 | `Alt + Shift + S` | Find any symbol |
 | `Alt + O` | Switch between cpp and header |
@@ -84,9 +89,11 @@ Official VS keyboard shortcuts documentation is [here](https://docs.microsoft.co
 | `Alt + Shift + ]` | Smart select shrink |
 
 ## Chrome
+
 Official Chrome keyboard shortcuts documentation is [here](https://support.google.com/chrome/answer/157179?hl=en).
+
 | Shortcuts | Description |
-| :---: | :---: |
+| :--- | :--- |
 | `Ctrl + T` | Open a new tab and jump to it |
 | `Ctrl + Tab` | Jump to the next open tab |
 | `Ctrl + Shift + Tab` | Jump to the previous open tab |
