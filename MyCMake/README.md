@@ -14,7 +14,7 @@ Some CMake commands and solutions.
 | add_library(\<name\> [STATIC\|SHARED\|MODULE]<br/>&emsp;\<sources...\><br/>) | Add a library to the project using the specified source files |
 | target_link_libraries(\<target\><br/>&emsp;[PRIVATE\|PUBLIC\|INTERFACE]<br/>&emsp;&emsp;\<items...\><br/>) | Specify libraries to use when linking a given target and/or its dependents |
 | add_library(\<name\> ALIAS \<target\>) | Create an alias target |
-| install(TARGETS \<targets...\><br/>&emsp;[ARCHIVE\|LIBRARY\|RUNTIME\|OBJECTS\|FRAMEWORK\|BUNDLE\|PRIVATE_HEADER\|PUBLIC_HEADER\|RESOURCE] DESTINATION \<dir\><br/>) | Install targets to the specified destination |
+| install(TARGETS \<targets...\><br/>&emsp;[ARCHIVE\|LIBRARY\|RUNTIME\|...] DESTINATION \<dir\><br/>) | Install targets to the specified destination |
 | install(DIRECTORY \<dirs...\><br/>&emsp;DESTINATION \<dir\><br/>) | Install directories to the specified destination |
 | install(FILES \<files...\><br/>&emsp;DESTINATION \<dir\><br/>) | Install files to the specified destination |
 | message(\<mode\> "message text") | Log a message |
