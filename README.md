@@ -1,7 +1,7 @@
 # Notebook
 
-My programming notebook about all kinds of usages, commands, solutions, tricks, etc. 
+My programming notebook which recorded all kinds of knowledge about tool usages, commands, solutions, tricks, etc. 
 
-## [Git](MyGit)
+## [MyGit](MyGit)
 
-## [Shortcuts](MyShortcuts)
+## [MyShortcuts](MyShortcuts)
