@@ -1,6 +1,6 @@
 # Notebook
 
-My simple programming notebook.
+My simple notebook records anything I need.
 
 ## [MyGit](MyGit)
 
@@ -13,3 +13,5 @@ My simple programming notebook.
 ## [MyVisualStudio](MyVisualStudio)
 
 ## [MyFFmpeg](MyFFmpeg)
+
+## [MyNihongo](MyNihongo)
