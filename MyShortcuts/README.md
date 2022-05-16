@@ -4,7 +4,7 @@ Some common and useful keyboard shortcuts in different software or environments.
 
 ## Windows 10
 
-Official Win10 keyboard shortcuts documentation is [here](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec).
+Official Win10 keyboard shortcuts documentation is [here](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10).
 
 | Shortcuts | Description |
 | :--- | :--- |
@@ -31,9 +31,9 @@ Official Win10 keyboard shortcuts documentation is [here](https://support.micros
 | `Ctrl + Win + left/right` | Switch between virtual desktops you've created on the left/right |
 | `Win + Shift + left/right` | Move a window to the left/right monitor |
 
-## Visual Studio 2019
+## Visual Studio 2022
 
-Official VS keyboard shortcuts documentation is [here](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019). Official Visual Assist keyboard shortcuts documentation is [here](https://docs.wholetomato.com/default.asp?W375).
+Official VS keyboard shortcuts documentation is [here](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022). Official Visual Assist keyboard shortcuts documentation is [here](https://docs.wholetomato.com/default.asp?W375).
 
 ### Default Keyboard Shortcuts
 
