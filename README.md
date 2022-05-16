@@ -1,6 +1,6 @@
 # Notebook
 
-My simple notebook records anything I need.
+My simple notebook where I record anything I need.
 
 ## [MyGit](MyGit)
 
