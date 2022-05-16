@@ -29,6 +29,7 @@ Official Win10 keyboard shortcuts documentation is [here](https://support.micros
 | `Win + I` | Open settings |
 | `Ctrl + Shift + Esc` | Open task manager |
 | `Ctrl + Win + left/right` | Switch between virtual desktops you've created on the left/right |
+| `Win + Shift + left/right` | Move a window to the left/right monitor |
 
 ## Visual Studio 2019
 
