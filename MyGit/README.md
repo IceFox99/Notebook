@@ -55,3 +55,4 @@ Some git commands and solutions which I personally think are useful.
 - [Basic writing and formatting syntax of README](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [How do I check out a remote Git branch](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 - [Managing your GitHub profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
