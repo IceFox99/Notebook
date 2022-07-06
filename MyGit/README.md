@@ -1,6 +1,6 @@
 # MyGit
 
-Some git commands and solutions which I personally think are useful.  
+Some commonly used git commands and solutions.
 
 ## Git Commands
 
@@ -56,3 +56,4 @@ Some git commands and solutions which I personally think are useful.
 - [How do I check out a remote Git branch](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 - [Managing your GitHub profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+- [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
